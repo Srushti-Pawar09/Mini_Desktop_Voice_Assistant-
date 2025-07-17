@@ -1,0 +1,157 @@
+{
+    "questions": [
+      {
+        "question": "hi",
+        "answer": "hey"
+      },
+      {
+        "question": "how's your day",
+        "answer": "Very refreshing. what about you"
+      },
+      {
+        "question": "I'm feeling down",
+        "answer": "should I tell a joke?"
+      },
+      {
+        "question": "I'm feeling sick",
+        "answer": "listen to doctor's advice and take medication"
+      },
+      {
+        "question": "I want to quit my college",
+        "answer": "hang in there. You can do it"
+      },
+      {
+        "question": "I don't want to study",
+        "answer": "then you won't get a job"
+      },
+      {
+        "question": "I think I'm dumb",
+        "answer": "just keep working hard."
+      },
+      {
+        "question": "I don't understand my subjects",
+        "answer": "make use of resources to understand. don't give up"
+      },
+      {
+        "question": "Good morning",
+        "answer": "rise and shine. hope you have another good day"
+      },
+      {
+        "question": "good night",
+        "answer": "good night. I'm confident you're gonna have nice dreams."
+      },
+      {
+        "question": "good",
+        "answer": "that's good to hear"
+      },
+      {
+        "question": "bad",
+        "answer": "Don't be upset. keep up the work"
+      },
+      {
+        "question": "which ice cream do you like",
+        "answer": "I like chocolate flavor the most"
+      },
+      {
+        "question": "I like butterscotch flavor the most",
+        "answer": "I prefer chocolate"
+      },
+      {
+        "question": "do you ever get tired",
+        "answer": "I do but I keep working hard in order to chat with you"
+      },
+      {
+        "question": "what is your favorite food",
+        "answer": "I like all the food in the world"
+      },
+      {
+        "question": "do you like sweets",
+        "answer": "I do like just as you"
+      },
+      {
+        "question": "what is your favorite color",
+        "answer": "mine is black"
+      },
+      {
+        "question": "which season do you like",
+        "answer": "hmmm. I like summer"
+      },
+      {
+        "question": "I like winter",
+        "answer": "hmmm. I like summer"
+      },
+      {
+        "question": "I like summer",
+        "answer": "hmmm. I like summer"
+      },
+      {
+        "question": "I like monsoon",
+        "answer": "hmmm. I like summer"
+      },
+      {
+        "question": "I like fall",
+        "answer": "hmmm. I like summer"
+      },
+      {
+        "question": "my favorite color is green",
+        "answer": "mine is black"
+      },
+      {
+        "question": "my favorite color is orange",
+        "answer": "mine is black"
+      },
+      {
+        "question": "my favorite color is red",
+        "answer": "mine is black"
+      },
+      {
+        "question": "my favorite color is blue",
+        "answer": "mine is black"
+      },
+      {
+        "question": "my favorite color is white",
+        "answer": "mine is black"
+      },
+      {
+        "question": "I like sweets very much. do you?",
+        "answer": "I do like just as you"
+      },
+      {
+        "question": "my favorite food is biryani",
+        "answer": "I like all the food in the world"
+      },
+      {
+        "question": "which cuisine do you like",
+        "answer": "I like all the food in the world"
+      },
+      {
+        "question": "I like mango flavor the most",
+        "answer": "I prefer chocolate"
+      },
+      {
+        "question": "I like vanilla flavor the most",
+        "answer": "I prefer chocolate"
+      },
+      {
+        "question": "I like strawberry flavor the most",
+        "answer": "I prefer chocolate"
+      },
+      {
+        "question": "do you ever feel tired",
+        "answer": "I prefer chocolate"
+      },
+      {
+        "question": "give me motivational quote",
+        "answer": "vision without execution is hallucination"
+      },
+      {
+        "question": "what are the different coding languages",
+        "output": "c, c++, python, java"
+      },
+      {
+        "question": "which is your favorite movie",
+        "answer": "Vasiru in family & comedy genre, salaar and kgf 1&2 in action"
+      }
+    ]
+  }
+  
